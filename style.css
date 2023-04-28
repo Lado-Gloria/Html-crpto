@@ -172,3 +172,20 @@
     left: 10%;
     bottom: 50px;
 }
+footer{
+    display: flex;
+    width: 100%;
+
+}
+#quick{
+    position: relative;
+    left: 10%;
+}
+#quick1{
+    position: relative;
+    left: 22%;
+}
+#quick2{
+    position: relative;
+    left: 30%;
+}
