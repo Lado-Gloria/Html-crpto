@@ -1,0 +1,174 @@
+.home{
+    position: relative;
+    display: flex;
+    left: 20%;
+}
+@media (max-width: 480px) {
+    .home{
+        font-size: 4px;
+    }
+    }
+    @media (min-width: 481px) and (max-width:768px) {
+        .home{
+            font-size: 2px;
+        }
+        }
+        @media (min-width: 481px) and (max-width:768px) {
+            .home{
+                font-size: 4px;
+            }
+            }
+            @media (min-width: 769px) and (max-width:1024px) {
+                .home{
+                    font-size: 6px;
+                }
+                }
+                @media (min-width: 1025px) and (max-width:1200px) {
+                    .home{
+                        font-size: 8px;
+                    }
+                    }
+#hme{
+    color: rgb(13, 248, 13);
+}
+.main{
+    background-color: rgb(26, 34, 26);
+    color: azure;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+   
+#por{
+    display: flex;
+    background-color: green;
+}
+#back{
+    position: relative;
+    left: 60%;
+}
+#and{
+    position: relative;
+    bottom: 300px;
+    font-size: x-large;
+}
+#tab{
+    width: 100%;
+    
+}
+.easy{
+    background-color: darkgrey;
+    width: 15%;
+    height: 15%;
+    position: relative;
+    top: 50px;
+
+}
+.vault{
+    background-color: darkgray;
+    width: 15%;
+    height: 15%;
+    position: relative;
+    left: 20%;
+}
+.best{
+
+    background-color: darkgray;
+    width: 15%;
+    height: 15%;
+    position: relative;
+    bottom: 80px;
+}
+.feat{
+    position: relative;
+    left: 50%;
+    bottom: 250px;
+}
+.invest{
+    position: relative;
+    font-size: x-large;
+    /* bottom: 80px */
+}
+#con{
+    position: relative;
+    left: 40%;
+    bottom: 300px;
+
+}
+#vest{
+    position: relative;
+    top: 200px;
+    /* left: 60%; */
+
+}
+#img1{
+    position: relative;
+    /* bottom: 80px; */
+    height: 30%;
+
+}
+#we{
+    position: relative;
+    left: 10%;
+    font-size: large;
+}
+.gen{
+    display: flex;
+    font-size: small;
+}
+@media (max-width: 480px) {
+    .gen{
+        font-size: 4px;
+    }
+    }
+    @media (min-width: 481px) and (max-width:768px) {
+        .gen{
+            font-size: 2px;
+        }
+        }
+        @media (min-width: 481px) and (max-width:768px) {
+            .gen{
+                font-size: 4px;
+            }
+            }
+            @media (min-width: 769px) and (max-width:1024px) {
+                .gen{
+                    font-size: 6px;
+                }
+                }
+                @media (min-width: 1025px) and (max-width:1200px) {
+                    .gen{
+                        font-size: 8px;
+                    }
+                    }
+#term{
+    position: relative;
+    left: 50%;
+    bottom: 130px;
+}
+#term1{
+    position: relative;
+    left: 50%;
+    bottom: 170px;
+}
+#term2{
+    position: relative;
+    /* left: 50%; */
+    bottom: 130px;
+}
+#term3{
+    position: relative;
+    /* left: 50%; */
+    bottom: 300px;
+}
+.phone{
+    display: flex;
+    font-size: x-large;
+    /* margin-top: 130px; */
+    position: relative;
+    bottom: 280px;
+}
+#foot{
+    position: relative;
+    left: 10%;
+    bottom: 50px;
+}
